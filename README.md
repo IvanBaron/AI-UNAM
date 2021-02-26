@@ -4,7 +4,7 @@ Proyectos realizados en el curso de Temas Selectos de Física Computacional III 
 Si existe alguna complicación con la previsualización de los notebooks, se pueden ver a continuación en nbviewer:
 
 
-- [`SentimentAnalysisPytorch.ipynb`](https://nbviewer.jupyter.org/github/IvanBaron/AI-UNAM/blob/main/SentimentAnalysisPytorch.ipynb)
+- [`SentimentAnalysisPytorch.ipynb`](https://nbviewer.jupyter.org/github/IvanBaron/AI-UNAM/blob/main/SentimentAnalysisPytorch.ipynb): Sentiment Anlaysis sobre tweets de Demócratas y Republicanos.
 
 **Nota:** Se borraron los outputs 'largos' para una visualización más amena.
 
